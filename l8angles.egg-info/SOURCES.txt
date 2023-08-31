@@ -1,0 +1,11 @@
+README.md
+setup.py
+l8angles.egg-info/PKG-INFO
+l8angles.egg-info/SOURCES.txt
+l8angles.egg-info/dependency_links.txt
+l8angles.egg-info/top_level.txt
+src/angles_api.c
+src/l8_angles.h
+src/ias_lib/ias_angle_gen_distro.h
+src/ias_lib/ias_logging.h
+src/ias_lib/ias_satellite_attributes.h
